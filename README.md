@@ -1,5 +1,4 @@
 ## 🍝 Cantinho da Massa • Data Platform
----
 
 Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos.
 Inspirado em sistemas como `Uber Eats` e `iFood`
