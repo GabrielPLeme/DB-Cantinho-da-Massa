@@ -91,8 +91,8 @@ GROUP BY YEAR(data_pedido);
 -- um pedido cadastrado.
 --
 -- Como usar:
--- CALL sp_cliente_ativo(1); -> Clientes Ativos
--- CALL sp_cliente_ativo(0); -> Clientes Inativos
+-- CALL sp_clientes_status(1); -> Clientes Ativos
+-- CALL sp_clientes_status(0); -> Clientes Inativos
 
 -- =====================================================
 
