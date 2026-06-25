@@ -1,6 +1,6 @@
 ## 🍝 Cantinho da Massa • Data Platform
 
-Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos  
+Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos.
 Inspirado em sistemas como `Uber Eats` e `iFood`
 
 ---
@@ -26,20 +26,17 @@ permitindo controle e tomada de decisão baseada em dados.
 # 🧠 ARQUITETURA DE DADOS
 
 [ DATA MODELING LAYER ]
-
 - Modelagem conceitual
 - Modelagem lógica
 - Modelagem física (SQL)
 
 [ OPERATIONAL LAYER ]
-
 - Tabelas transacionais
 - Pedidos e clientes
 - Estoque e fornecedores
 - Entregas e pagamentos
 
 [ ANALYTICS LAYER ]
-
 - KPIs de negócio
 - Views analíticas
 - Procedures dinâmicas
@@ -59,10 +56,7 @@ permitindo controle e tomada de decisão baseada em dados.
 - Receita por categoria
 - Situação de estoque
 
-# 
-
-#⚙️ STORED PROCEDURES (API LAYER)
-# 
+# ⚙️ STORED PROCEDURES (API LAYER)
 
 -- Clientes por status
 CALL sp_clientes_status(1); -- ativos
@@ -80,7 +74,6 @@ vw_produtos_ativos
 vw_faturamento_mes
 vw_top_produtos
 vw_estoque_status
- 
 
 # 🗂 DATA MODEL
 
