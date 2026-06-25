@@ -3,8 +3,8 @@
 Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos.
 Inspirado em sistemas como `Uber Eats` e `iFood`
 
-
-### 🏢 SOBRE O PRODUTO
+  
+# 🏢 SOBRE O PRODUTO
 
 O Cantinho da Massa Data Platform é um sistema de banco de dados
 projetado para suportar operações de um delivery moderno.
@@ -13,7 +13,7 @@ A plataforma centraliza dados operacionais e analíticos,
 permitindo controle e tomada de decisão baseada em dados.
 
 
-### 🎯 Objetivo
+# 🎯 Objetivo
 
 - Gestão de pedidos
 - Controle de clientes
@@ -23,8 +23,7 @@ permitindo controle e tomada de decisão baseada em dados.
 - Gestão de entregas
 - Análise de performance (KPIs) 
 
-
-### 🧠 ARQUITETURA DE DADOS
+# 🧠 ARQUITETURA DE DADOS
 
 [ DATA MODELING LAYER ]
 - Modelagem conceitual
@@ -57,8 +56,7 @@ permitindo controle e tomada de decisão baseada em dados.
 - Receita por categoria
 - Situação de estoque
 
-
-### ⚙️ STORED PROCEDURES (API LAYER)
+# ⚙️ STORED PROCEDURES (API LAYER)
 
 -- Clientes por status
 CALL sp_clientes_status(1); -- ativos
@@ -68,8 +66,7 @@ CALL sp_clientes_status(0); -- inativos
 CALL sp_funcionarios_status(1); -- ativos
 CALL sp_funcionarios_status(0); -- inativos
 
-
-### 👁 VIEWS (ANALYTICS LAYER)
+# 👁 VIEWS (ANALYTICS LAYER)
 
 vw_faturamento_total
 vw_ticket_medio
@@ -93,8 +90,7 @@ TABELAS PRINCIPAIS:
 - fornecedores
 - estoques
 
-
-### 🛠 TECH STACK
+# 🛠 TECH STACK
 
 - PostgreSQL / MySQL
 - SQL Avançado
@@ -102,8 +98,7 @@ TABELAS PRINCIPAIS:
 - Modelagem de Banco de Dados
 - Git & GitHub
 
-
-### 🚀 BUSINESS VALUE
+# 🚀 BUSINESS VALUE
 
 O sistema permite responder perguntas como:
 
@@ -113,8 +108,7 @@ O sistema permite responder perguntas como:
 - Quais dias têm mais pedidos?
 - Onde há gargalos operacionais?
 
-
-### 👨‍💻 AUTORES
+# 👨‍💻 AUTORES
 
 - Andreza Fonseca Damasceno
 - Gabriel Pereira Leme
