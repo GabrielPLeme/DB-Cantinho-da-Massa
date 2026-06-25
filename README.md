@@ -15,10 +15,9 @@ projetado para suportar operações de um delivery moderno.
 A plataforma centraliza dados operacionais e analíticos,
 permitindo controle e tomada de decisão baseada em dados.
 
-#
+---
 
-🎯 OBJETIVO
-# 
+## 🎯 Objetivo
 
 - Gestão de pedidos
 - Controle de clientes
