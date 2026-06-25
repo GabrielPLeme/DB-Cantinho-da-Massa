@@ -116,9 +116,9 @@ O sistema permite responder perguntas como:
 
 # 👨‍💻 AUTORES
 
-Andreza Fonseca Damasceno
-Gabriel Pereira Leme
-Gabriela Fernandes Beato
+- Andreza Fonseca Damasceno
+- Gabriel Pereira Leme
+- Gabriela Fernandes Beato
 
-Disciplina Banco de Dados
-Tecnologia em Sistemas para Internet
+**Disciplina:** Banco de Dados  
+**Curso:** Tecnologia em Sistemas para Internet
