@@ -1,12 +1,12 @@
 🍝 Cantinho da Massa • Data Platform
 # 
 
-> Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos  
-> Inspirado em sistemas como `Uber Eats` e `iFood`
+Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos  
+Inspirado em sistemas como `Uber Eats` e `iFood`
 
 ---
 
-#🏢 SOBRE O PRODUTO
+# 🏢 SOBRE O PRODUTO
 # 
 
 O Cantinho da Massa Data Platform é um sistema de banco de dados
@@ -29,7 +29,7 @@ permitindo controle e tomada de decisão baseada em dados.
 
 # 
 
-#🧠 ARQUITETURA DE DADOS
+# 🧠 ARQUITETURA DE DADOS
 # 
 
 [ DATA MODELING LAYER ]
@@ -53,7 +53,7 @@ permitindo controle e tomada de decisão baseada em dados.
 
 # 
 
-#📊 BUSINESS KPIs
+# 📊 BUSINESS KPIs
 # 
 
 - Faturamento total
@@ -83,7 +83,7 @@ CALL sp_funcionarios_status(0); -- inativos
 
 # 
 
-#👁 VIEWS (ANALYTICS LAYER)
+# 👁 VIEWS (ANALYTICS LAYER)
 # 
 
 vw_faturamento_total
@@ -95,7 +95,7 @@ vw_estoque_status
 
 # 
 
-#🗂 DATA MODEL
+# 🗂 DATA MODEL
 # 
 
 TABELAS PRINCIPAIS:
@@ -113,7 +113,7 @@ TABELAS PRINCIPAIS:
 
 # 
 
-#🛠 TECH STACK
+# 🛠 TECH STACK
 # 
 
 - PostgreSQL / MySQL
@@ -124,7 +124,7 @@ TABELAS PRINCIPAIS:
 
 # 
 
-#🚀 BUSINESS VALUE
+# 🚀 BUSINESS VALUE
 # 
 
 Este sistema permite responder perguntas como:
@@ -137,7 +137,7 @@ Este sistema permite responder perguntas como:
 
 # 
 
-#👨‍💻 AUTORES
+# 👨‍💻 AUTORES
 # 
 
 Andreza Fonseca Damasceno
