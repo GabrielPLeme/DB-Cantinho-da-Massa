@@ -1,15 +1,15 @@
-# 🍝 Cantinho da Massa • Data Platform
+🍝 Cantinho da Massa • Data Platform
 
-# =====================================
+# 
 
 > 🟢 Plataforma de dados para gestão inteligente de um serviço de delivery de alimentos  
 > Inspirado em sistemas como Uber Eats e iFood
 
-# =====================================
+# 
 
-# 🏢 SOBRE O PRODUTO
+🏢 SOBRE O PRODUTO
 
-# =====================================
+# 
 
 O Cantinho da Massa Data Platform é um sistema de banco de dados
 projetado para suportar operações de um delivery moderno.
@@ -17,11 +17,11 @@ projetado para suportar operações de um delivery moderno.
 A plataforma centraliza dados operacionais e analíticos,
 permitindo controle e tomada de decisão baseada em dados.
 
-# =====================================
+#
 
-# 🎯 OBJETIVO
+🎯 OBJETIVO
 
-# =====================================
+# 
 
 - Gestão de pedidos
 - Controle de clientes
@@ -31,11 +31,11 @@ permitindo controle e tomada de decisão baseada em dados.
 - Gestão de entregas
 - Análise de performance (KPIs)
 
-# =====================================
+# 
 
-# 🧠 ARQUITETURA DE DADOS
+🧠 ARQUITETURA DE DADOS
 
-# =====================================
+# 
 
 [ DATA MODELING LAYER ]
 
@@ -56,11 +56,11 @@ permitindo controle e tomada de decisão baseada em dados.
 - Views analíticas
 - Procedures dinâmicas
 
-# =====================================
+# 
 
-# 📊 BUSINESS KPIs
+📊 BUSINESS KPIs
 
-# =====================================
+# 
 
 - Faturamento total
 - Ticket médio
@@ -88,11 +88,11 @@ CALL sp_clientes_status(0); -- inativos
 CALL sp_funcionarios_status(1); -- ativos
 CALL sp_funcionarios_status(0); -- inativos
 
-# =====================================
+# 
 
-# 👁 VIEWS (ANALYTICS LAYER)
+👁 VIEWS (ANALYTICS LAYER)
 
-# =====================================
+# 
 
 vw_faturamento_total
 vw_ticket_medio
@@ -101,11 +101,11 @@ vw_faturamento_mes
 vw_top_produtos
 vw_estoque_status
 
-# =====================================
+# 
 
-# 🗂 DATA MODEL
+🗂 DATA MODEL
 
-# =====================================
+# 
 
 TABELAS PRINCIPAIS:
 
@@ -120,11 +120,11 @@ TABELAS PRINCIPAIS:
 - fornecedores
 - estoques
 
-# =====================================
+# 
 
-# 🛠 TECH STACK
+🛠 TECH STACK
 
-# =====================================
+# 
 
 - PostgreSQL / MySQL
 - SQL Avançado
@@ -132,11 +132,11 @@ TABELAS PRINCIPAIS:
 - Modelagem de Banco de Dados
 - Git & GitHub
 
-# =====================================
+# 
 
-# 🚀 BUSINESS VALUE
+🚀 BUSINESS VALUE
 
-# =====================================
+# 
 
 Este sistema permite responder perguntas como:
 
@@ -146,13 +146,15 @@ Este sistema permite responder perguntas como:
 - Quais dias têm mais pedidos?
 - Onde há gargalos operacionais?
 
-# =====================================
+# 
 
-# 👨‍💻 AUTHOR
+👨‍💻 AUTHOR
 
-# =====================================
+# 
 
+Andreza Fonseca Damasceno
 Gabriel Pereira Leme
+Gabriela Fernandes Beato
 
 Disciplina Banco de Dados
 Tecnologia em Sistemas para Internet
